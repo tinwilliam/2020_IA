@@ -1,2 +1,2 @@
 # 2020_IA
-IA projects on Azure or with Python
+IA projects made or collaborate on for Azure services or with Python scripts
